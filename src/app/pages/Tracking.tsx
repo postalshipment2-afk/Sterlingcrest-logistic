@@ -100,7 +100,7 @@
 //             animate={{ opacity: 1 }}
 //             className="inline-block px-4 py-1 rounded-full bg-orange-500 text-xs font-bold uppercase tracking-[0.2em] mb-6 "
 //           >
-//             Steadfast Logistics ltd{" "}
+//             STERLING CRESTLogistics ltd{" "}
 //           </motion.span> */}
 //           <motion.h1
 //             initial={{ opacity: 0, y: 20 }}

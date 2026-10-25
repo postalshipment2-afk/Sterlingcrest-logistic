@@ -118,7 +118,8 @@ export function About() {
             animate={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-6xl font-black mb-4"
           >
-            About <span className="text-orange-500">Steadfast-Logistic</span>
+            About{" "}
+            <span className="text-orange-500">Sterling Crest- logistic</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -149,8 +150,8 @@ export function About() {
               </h3>
               <div className="space-y-6 text-slate-600 text-lg leading-relaxed">
                 <p>
-                  Founded in 2010, Steadfast-Logistic started as a small local
-                  delivery service with a big vision: to revolutionize the
+                  Founded in 2010, Sterling Crest- logistic started as a small
+                  local delivery service with a big vision: to revolutionize the
                   logistics industry through technology, reliability, and
                   exceptional customer service.
                 </p>

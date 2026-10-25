@@ -189,7 +189,8 @@ export function Navbar() {
               <Package className="h-6 w-6 text-white" />
             </div>
             <span className="text-xl font-black uppercase tracking-tighter text-white">
-              Steadfast <span className="text-orange-500">- Logistics ltd</span>
+              STERLING CREST
+              <span className="text-orange-500">- Logistics ltd</span>
             </span>
           </Link>
 

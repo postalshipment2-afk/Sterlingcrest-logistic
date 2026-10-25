@@ -30,7 +30,7 @@ export function Footer() {
                 <Package className="w-6 h-6 text-white" />
               </div>
               <span className="font-black text-lg text-white tracking-tighter uppercase">
-                Steadfast{" "}
+                STERLING CREST{" "}
                 <span className="text-orange-500">-Logistics ltd</span>
               </span>
             </div>
@@ -170,7 +170,7 @@ export function Footer() {
                 <div className="bg-slate-900 p-2 rounded-lg group-hover:bg-orange-500/10 transition-colors">
                   <Mail className="w-5 h-5 text-orange-500 shrink-0" />
                 </div>
-                <span className="text-sm">Support@Steadfast-logistics.com</span>
+                <span className="text-sm">Support@STERLINGCREST.com</span>
               </li>
             </ul>
           </div>
@@ -181,12 +181,14 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-medium uppercase tracking-widest">
             <p className="text-slate-500">
               &copy; {new Date().getFullYear()}{" "}
-              <span className="text-slate-300">Steadfast Logistics ltd</span>.
-              Systems Operational.
+              <span className="text-slate-300">
+                STERLING CREST-Logistics ltd
+              </span>
+              . Systems Operational.
             </p>
             <p className="text-slate-600">
               Architecture by{" "}
-              <span className="text-orange-500/80">Steadfast</span>
+              <span className="text-orange-500/80">Sterlingcrest</span>
             </p>
           </div>
         </div>

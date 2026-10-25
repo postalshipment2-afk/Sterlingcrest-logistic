@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Package, Users, TrendingUp, FileText } from "lucide-react";
 import { RegisterClient } from "./RegisterClient";
 import { ManageShipments } from "./ManageShipments";
-import Bankaccount from "./Bankaccount";
+// import Bankaccount from "./Bankaccount";
 
 export function Admin() {
   const [activeTab, setActiveTab] = useState<
@@ -79,7 +79,7 @@ export function Admin() {
               >
                 Manage Shipments
               </button>
-              <button
+              {/* <button
                 onClick={() => setActiveTab("bank")}
                 className={`px-6 py-4 font-medium ${
                   activeTab === "bank"
@@ -88,7 +88,7 @@ export function Admin() {
                 }`}
               >
                 Bank Account
-              </button>
+              </button> */}
             </nav>
           </div>
 
@@ -128,7 +128,7 @@ export function Admin() {
 
             {activeTab === "register" && <RegisterClient />}
             {activeTab === "manage" && <ManageShipments />}
-            {activeTab === "bank" && <Bankaccount />}
+            {/* {activeTab === "bank" && <Bankaccount />} */}
           </div>
         </div>
       </div>

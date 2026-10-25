@@ -496,7 +496,7 @@ export function Receipt({ data, onClose }: ReceiptProps) {
                 <p
                   style={{ fontSize: "10px", color: hex.navyLight, margin: 0 }}
                 >
-                  © {new Date().getFullYear()} Steadfast Logistics Ltd. |
+                  © {new Date().getFullYear()} STERLING CRESTLogistics Ltd. |
                   Document ID: {data.id?.toString().slice(-10).toUpperCase()}
                 </p>
               </div>
