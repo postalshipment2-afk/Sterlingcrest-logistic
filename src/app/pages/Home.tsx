@@ -503,7 +503,7 @@ text-2xl
             Ready to Optimize Your Supply Chain?
           </h2>
           <p className="text-slate-300 text-xl mb-10 max-w-2xl mx-auto">
-            Join 5,000+ businesses that rely on Steadfastfor their
+            Join 5,000+ businesses that rely on Sterling Crestfor their
             mission-critical deliveries.
           </p>
           <div className="flex flex-wrap justify-center gap-4">

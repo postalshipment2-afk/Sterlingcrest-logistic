@@ -49,7 +49,7 @@ export function Receipt({ data, onClose }: ReceiptProps) {
       const imgData = canvas.toDataURL("image/png");
       const pdf = new jsPDF("p", "mm", "a4");
       pdf.addImage(imgData, "PNG", 0, 0, 210, 297);
-      pdf.save(`Steadfast_Receipt_${data.tracking_number}.pdf`);
+      pdf.save(`Sterling Crest_Receipt_${data.tracking_number}.pdf`);
     } catch (error) {
       console.error("PDF Error:", error);
     } finally {
@@ -166,7 +166,7 @@ export function Receipt({ data, onClose }: ReceiptProps) {
                         textTransform: "uppercase",
                       }}
                     >
-                      Steadfast
+                      Sterling Crest
                     </span>
                   </div>
                   <p
@@ -402,7 +402,7 @@ export function Receipt({ data, onClose }: ReceiptProps) {
                   }}
                 >
                   <span style={{ fontSize: "10px", fontWeight: "bold" }}>
-                    Steadfast
+                    Sterling Crest
                   </span>
                   <div
                     style={{

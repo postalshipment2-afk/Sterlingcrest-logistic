@@ -19023,7 +19023,7 @@ function dI() {
                       className:
                         "font-black text-lg text-white tracking-tighter uppercase",
                       children: [
-                        "Steadfast",
+                        "Sterling Crest",
                         " ",
                         x.jsx("span", {
                           className: "text-orange-500",
@@ -19305,7 +19305,7 @@ function dI() {
                   " ",
                   x.jsx("span", {
                     className: "text-orange-500/80",
-                    children: "Steadfast",
+                    children: "Sterling Crest",
                   }),
                 ],
               }),
@@ -28038,7 +28038,7 @@ function _H() {
               x.jsx("p", {
                 className: "text-slate-300 text-xl mb-10 max-w-2xl mx-auto",
                 children:
-                  "Join 5,000+ businesses that rely on Steadfastfor their mission-critical deliveries.",
+                  "Join 5,000+ businesses that rely on Sterling Crestfor their mission-critical deliveries.",
               }),
               x.jsxs("div", {
                 className: "flex flex-wrap justify-center gap-4",
@@ -40895,9 +40895,10 @@ function VM() {
                               x.jsx("span", {
                                 className: "text-slate-600",
                                 children: x.jsx("a", {
-                                  href: "mailto:Support@Steadfastlogistic.com",
+                                  href: "mailto:Support@Sterling Crestlogistic.com",
                                   className: "hover:underline",
-                                  children: "Support@Steadfastlogistic.com",
+                                  children:
+                                    "Support@Sterling Crestlogistic.com",
                                 }),
                               }),
                             ],
@@ -73414,7 +73415,7 @@ function lX({ data: t, onClose: e }) {
             ).toDataURL("image/png"),
             d = new Ct("p", "mm", "a4");
           (d.addImage(f, "PNG", 0, 0, 210, 297),
-            d.save(`Steadfast_Receipt_${t.tracking_number}.pdf`));
+            d.save(`Sterling Crest_Receipt_${t.tracking_number}.pdf`));
         } catch (c) {
           console.error("PDF Error:", c);
         } finally {
@@ -73541,7 +73542,7 @@ function lX({ data: t, onClose: e }) {
                                   color: A.navy,
                                   textTransform: "uppercase",
                                 },
-                                children: "Steadfast",
+                                children: "Sterling Crest",
                               }),
                             ],
                           }),
@@ -73815,7 +73816,7 @@ function lX({ data: t, onClose: e }) {
                         children: [
                           x.jsx("span", {
                             style: { fontSize: "10px", fontWeight: "bold" },
-                            children: "Steadfast",
+                            children: "Sterling Crest",
                           }),
                           x.jsx("div", {
                             style: {
