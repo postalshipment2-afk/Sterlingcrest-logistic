@@ -170,10 +170,10 @@ export function Contact() {
                     </h3>
                     <span className="text-slate-600">
                       <a
-                        href="mailto:Support@Sterling Crest- logistics.com"
+                        href="mailto:info@sterlingcrest-logistic.com"
                         className="hover:underline"
                       >
-                        Support@Sterling Crest- logistics.com
+                        info@sterlingcrest-logistic.com
                       </a>
                     </span>
                   </div>

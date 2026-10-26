@@ -170,7 +170,7 @@ export function Footer() {
                 <div className="bg-slate-900 p-2 rounded-lg group-hover:bg-orange-500/10 transition-colors">
                   <Mail className="w-5 h-5 text-orange-500 shrink-0" />
                 </div>
-                <span className="text-sm">Support@STERLINGCREST.com</span>
+                <span className="text-sm">info@sterlingcrest-logistic.com</span>
               </li>
             </ul>
           </div>
