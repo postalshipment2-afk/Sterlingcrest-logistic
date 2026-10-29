@@ -131,18 +131,18 @@ export function Contact() {
                       Office Address
                     </h3>
                     <p className="text-slate-600">
-                      Osmanl Sokak No 2/B taksim 34437,
+                      2465 36 St NE, Calgary, AB T1Y 6H6,
                       <br />
-                      Istanbul, Turkey
+                      Canada.
                     </p>
                   </div>
                 </div>
 
-                <div className="flex items-start gap-5 group">
+                {/* <div className="flex items-start gap-5 group">
                   <div className="bg-orange-100 p-4 rounded-2xl group-hover:bg-orange-500 transition-colors duration-300">
                     <Phone className="w-6 h-6 text-orange-600 group-hover:text-white" />
                   </div>
-                  <div>
+                   <div>
                     <h3 className="font-bold text-slate-950 mb-1 uppercase tracking-wider text-sm">
                       Phone Numbers
                     </h3>
@@ -157,8 +157,8 @@ export function Contact() {
                         +1 (706) 836-1262
                       </a>
                     </span>
-                  </div>
-                </div>
+                  </div> 
+                </div> */}
 
                 <div className="flex items-start gap-5 group">
                   <div className="bg-orange-100 p-4 rounded-2xl group-hover:bg-orange-500 transition-colors duration-300">
